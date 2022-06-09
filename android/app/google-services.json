@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "776732766413",
+    "project_id": "b3fa-46a01",
+    "storage_bucket": "b3fa-46a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776732766413:android:d76ee5cc81dfb7b02bf984",
+        "android_client_info": {
+          "package_name": "com.ebefa.ebefa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776732766413-bvskc52q7i6eobtmopd36vl428a4836m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2no0JGZEPIXFJ3iHBLcewFhXxW7vdeeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776732766413-bvskc52q7i6eobtmopd36vl428a4836m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776732766413:android:4c4408518ba060862bf984",
+        "android_client_info": {
+          "package_name": "com.ebefa.organizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776732766413-bvskc52q7i6eobtmopd36vl428a4836m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2no0JGZEPIXFJ3iHBLcewFhXxW7vdeeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776732766413-bvskc52q7i6eobtmopd36vl428a4836m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
